@@ -1,2 +1,2 @@
 language = "bash"
-run = ""
+run = "node 02JavaScriptAlgorithms/06BasicAlgorithmScripting/02reverseString.js"
