@@ -1,7 +1,7 @@
 function Dog(name) {
   this.name = name;
 }
-
+// Test change
 // Only change code below this line
 Dog.prototype = {
   constructor: Dog,
