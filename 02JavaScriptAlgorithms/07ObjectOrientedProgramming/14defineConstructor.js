@@ -14,4 +14,4 @@ Dog.prototype = {
   }
 };
 
-//Testing to see what the commit is
+//Testing to see what the commit
