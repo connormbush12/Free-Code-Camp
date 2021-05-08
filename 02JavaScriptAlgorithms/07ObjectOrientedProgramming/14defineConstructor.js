@@ -13,3 +13,5 @@ Dog.prototype = {
     console.log("My name is " + this.name);
   }
 };
+
+//Testing to see what the commit is
